@@ -29,3 +29,4 @@ C:\Users\Administrator\Documents\workspace\Newcapgemini\Capgemini\Capgemini.DTO\
 C:\Users\Administrator\Documents\workspace\Newcapgemini\Capgemini\Capgemini.DTO\obj\Debug\Capgemini.DTO.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Documents\workspace\Newcapgemini\Capgemini\Capgemini.DTO\obj\Debug\Capgemini.DTO.dll
 C:\Users\Administrator\Documents\workspace\Newcapgemini\Capgemini\Capgemini.DTO\obj\Debug\Capgemini.DTO.pdb
+C:\Users\Administrator\Documents\workspace\Newcapgemini\Capgemini\Capgemini.DTO\obj\Debug\Capgemini.DTO.csprojResolveAssemblyReference.cache
