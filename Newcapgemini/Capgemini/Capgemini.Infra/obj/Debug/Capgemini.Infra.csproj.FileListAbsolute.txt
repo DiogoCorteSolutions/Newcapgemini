@@ -38,3 +38,17 @@ C:\Users\Administrator\Documents\workspace\Newcapgemini\Capgemini\Capgemini.Infr
 C:\Users\Administrator\Documents\workspace\Newcapgemini\Capgemini\Capgemini.Infra\obj\Debug\Capgemini.Infra.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Documents\workspace\Newcapgemini\Capgemini\Capgemini.Infra\obj\Debug\Capgemini.Infra.dll
 C:\Users\Administrator\Documents\workspace\Newcapgemini\Capgemini\Capgemini.Infra\obj\Debug\Capgemini.Infra.pdb
+C:\Users\Administrator\Documents\workspace3\Newcapgemini\Newcapgemini\Capgemini\Capgemini.Infra\bin\Debug\Capgemini.Infra.dll.config
+C:\Users\Administrator\Documents\workspace3\Newcapgemini\Newcapgemini\Capgemini\Capgemini.Infra\bin\Debug\Capgemini.Infra.dll
+C:\Users\Administrator\Documents\workspace3\Newcapgemini\Newcapgemini\Capgemini\Capgemini.Infra\bin\Debug\Capgemini.Infra.pdb
+C:\Users\Administrator\Documents\workspace3\Newcapgemini\Newcapgemini\Capgemini\Capgemini.Infra\bin\Debug\Capgemini.DTO.dll
+C:\Users\Administrator\Documents\workspace3\Newcapgemini\Newcapgemini\Capgemini\Capgemini.Infra\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\workspace3\Newcapgemini\Newcapgemini\Capgemini\Capgemini.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\workspace3\Newcapgemini\Newcapgemini\Capgemini\Capgemini.Infra\bin\Debug\Capgemini.DTO.pdb
+C:\Users\Administrator\Documents\workspace3\Newcapgemini\Newcapgemini\Capgemini\Capgemini.Infra\bin\Debug\Capgemini.DTO.dll.config
+C:\Users\Administrator\Documents\workspace3\Newcapgemini\Newcapgemini\Capgemini\Capgemini.Infra\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\workspace3\Newcapgemini\Newcapgemini\Capgemini\Capgemini.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\workspace3\Newcapgemini\Newcapgemini\Capgemini\Capgemini.Infra\obj\Debug\Capgemini.Infra.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\workspace3\Newcapgemini\Newcapgemini\Capgemini\Capgemini.Infra\obj\Debug\Capgemini.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\workspace3\Newcapgemini\Newcapgemini\Capgemini\Capgemini.Infra\obj\Debug\Capgemini.Infra.dll
+C:\Users\Administrator\Documents\workspace3\Newcapgemini\Newcapgemini\Capgemini\Capgemini.Infra\obj\Debug\Capgemini.Infra.pdb
