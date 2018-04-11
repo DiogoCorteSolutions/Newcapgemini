@@ -25,7 +25,7 @@
                 }
                 <form action="@Url.Action("index", "login")" method="post">
                     @Html.TextBoxFor(x => x.Cpf, new { placeholder = "Informe o CPF", required = "required" })
-                    @Html.PasswordFor(x => x.Senha, new { placeholder = "Informe sua Senha", required = "required" })
+                    @Html.PasswordFor(x => x.Senha, new { placeholder = "Informe a senha!!!", required = "required" })
                     <button type="submit" class="btn btn-login">Login</button>
                 </form>
                 <div class="login-links">
